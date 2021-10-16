@@ -14,7 +14,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-        //создание объекта для проведения операций с базой данных
+//        создание объекта для проведения операций с базой данных
         UserServiceImpl service = new UserServiceImpl();
 
 //        создание таблицы
